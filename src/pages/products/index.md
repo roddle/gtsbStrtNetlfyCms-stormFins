@@ -1,13 +1,9 @@
 ---
 templateKey: product-page
-title: Fins Maxumi
-image: /img/jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+title: High performance fins for the Costco Wavestorm and other soft boards.
+image: /img/delfi-de-la-rua-340869-unsplash.jpg
+heading: 'Designed and tested in Santa Cruz, California'
+description: Add a new level of variety to your surfing experiences
 intro:
   blurbs:
     - image: /img/coffee.png
